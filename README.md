@@ -18,4 +18,4 @@ HTML5
 CSS3
 JavaScript simples para tela de carregamento
 
-## Site is live at https://sabrinaflc.github.io/nerveconstrution/
+## Site is live at https://sabrinaflc.github.io/constrution/
